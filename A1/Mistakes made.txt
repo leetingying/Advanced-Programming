@@ -1,0 +1,2 @@
+Mistakes made:
+Accidentally swapped the x and y when calling the function in the main.cpp which resulted the display and data to get truncate as the row and columns input are input incorrectly
